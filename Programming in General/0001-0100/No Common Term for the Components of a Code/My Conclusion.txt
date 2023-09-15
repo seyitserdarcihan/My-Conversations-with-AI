@@ -1,6 +1,6 @@
 I'd like to make an analogy to express my conclusion.
 
-In the physical material world, there is not a common term for everything. 
+In the physical material world, there is not a common term for everything, if I'm right. 
 Let me explain:
 
 You call a stone an object.
@@ -34,4 +34,15 @@ I search for a common term between these terms:
 Do you get what I mean?
 
 There is no common term for every meaningful entity in software world, is there?
+
+Until someone tells me what is the common term or I find it myself, 
+until then, I coin it myself. Here is the common term for everything in software world for me:
+
+softhing
+
+I repeat, the term 'softhing' excludes every hardware term. 
+
+
+
+
 
